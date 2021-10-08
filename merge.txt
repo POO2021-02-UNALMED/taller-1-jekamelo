@@ -1,3 +1,12 @@
+
 Camilo Montoya Arango
 20
 Aprender a profundidad los conceptos de la POO y fortalecer mis habilidades blandas
+
+La carpeta se pudo subir porque ya no estaba vacía
+
+Hay que tenr cuidado al modificar dos archivos al mismo tiempo
+porque pueden aparecer conflictos en el mismo, como dos líneas
+de texto con distinto contenido,  y luego habrá que solucionar
+manualmente dicho conflicto.  
+
